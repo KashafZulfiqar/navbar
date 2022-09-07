@@ -20,8 +20,7 @@ function handalclick() {
               <li>work</li>
               <li>contact</li>
               <li>Login</li>
-
-              <li></li>
+              <li>Sign Up</li>
 
             </ul>
 

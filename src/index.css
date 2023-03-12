@@ -2,17 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-  margin: 0%;
-  padding: 0%;
-}
-
-@layer base {  
-  body {  
-  @apply-styles: none;
-    }
-    li{
-      @apply px-4;
-      @apply cursor-pointer;
-    }
+@layer base {
+  body {
+    @apply-styles: none;
+  }
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
 }
